@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT1\Ticket Price Calculator\Ticket Price Calculator\bin\Debug\Ticket Price Calculator.exe.config
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT1\Ticket Price Calculator\Ticket Price Calculator\bin\Debug\Ticket Price Calculator.exe
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT1\Ticket Price Calculator\Ticket Price Calculator\bin\Debug\Ticket Price Calculator.pdb
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT1\Ticket Price Calculator\Ticket Price Calculator\obj\Debug\Ticket Price Calculator.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT1\Ticket Price Calculator\Ticket Price Calculator\obj\Debug\Ticket Price Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT1\Ticket Price Calculator\Ticket Price Calculator\obj\Debug\Ticket Price Calculator.exe
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT1\Ticket Price Calculator\Ticket Price Calculator\obj\Debug\Ticket Price Calculator.pdb
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT1\Ticket Price Calculator\Ticket Price Calculator\obj\Debug\Ticket Price Calculator.exe.config
