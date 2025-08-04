@@ -11,7 +11,7 @@ namespace Ticket_Price_Calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("********DCIT 318 ASSIGNMENT********");
+            Console.WriteLine("DCIT 318 ASSIGNMENT");
             TicketPriceCalculator();
         }
 

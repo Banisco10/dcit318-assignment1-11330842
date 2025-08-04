@@ -6,7 +6,7 @@ namespace Triangle_Type_Identifier
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("********DCIT 318 ASSIGNMENT********");
+            Console.WriteLine("DCIT 318 ASSIGNMENT");
             TriangleTypeIdentifier();
         }
 
